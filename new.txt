@@ -6,5 +6,6 @@ made changes
 
 public class MadeChanges {
 	public voidSimpleMethod(){
+		print("adcda")
 	}
 }
